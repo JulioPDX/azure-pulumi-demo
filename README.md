@@ -1,2 +1,3 @@
 # azure-pulumi-demo
-Used for Pulumi Blog Post
+
+Used for Pulumi blog post on Packet Pushers

@@ -1,0 +1,5 @@
+config:
+  azure-native:location: WestUS
+  azure-pulumi-demo:passwd:
+    secure: AAABALoX8OrzQk05F7PsBbbrcm95iDOa531zGMJwGBhnTISD0MLpd02RNzyE3oYdZ6gBog==
+  azure-pulumi-demo:rg_name: juliopdx_rg_dev

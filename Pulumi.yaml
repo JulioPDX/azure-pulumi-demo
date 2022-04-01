@@ -1,0 +1,6 @@
+name: azure-pulumi-demo
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: Simple pulumi example for blog post
